@@ -48,3 +48,14 @@ Docker-Masterclass-MLOps
 │ └── build_and_run.sh
 │
 └── README.md
+
+
+---
+
+## ⚙️ Getting Started
+
+### 1️⃣ Clone the Repository
+
+```bash
+git clone https://github.com/Piyushraj2510/Docker-Masterclass-MLOps.git
+cd Docker-Masterclass-MLOps
