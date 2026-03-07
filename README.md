@@ -33,3 +33,18 @@ This repository includes practical exercises covering:
 ---
 
 ## 📂 Project Structure
+Docker-Masterclass-MLOps
+│
+├── Dockerfile
+├── requirements.txt
+├── app/
+│ ├── main.py
+│ └── utils.py
+│
+├── notebooks/
+│ └── experimentation.ipynb
+│
+├── scripts/
+│ └── build_and_run.sh
+│
+└── README.md
